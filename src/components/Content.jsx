@@ -5,7 +5,7 @@ const Content = () => {
     return (
         <>
             <div className='flex justify-center items-center bg-hero bg-no-repeat bg-cover h-full'>
-                <div className='flex flex-col items-center mt-20 sm:mt-12'>
+                <div className='flex flex-col items-center mt-20 sm:mt-8'>
                     <div>
                         <div id="google_translate_element" className="fixed top-24 right-5 sm:right-14 md:right-28"></div>
                         <input type="text" placeholder='Type to search...' className='w-56 h-10 md:w-72 pl-5 rounded-l-lg focus:outline-0' />
@@ -63,6 +63,7 @@ const Content = () => {
                             </button>
                         </div>
                     </div>
+                    <p className="text-5xl font-bold -mt-8 text-transparent" style={{ "fontFamily": "Allison" }}>Forever in our memories....</p>
                 </div>
             </div>
         </>

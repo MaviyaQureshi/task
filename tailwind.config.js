@@ -8,6 +8,8 @@ module.exports = {
       button: "#FF8F8F",
       language: "#FAE9DF",
       back: "#FAE9DF",
+      transparent: "#808080",
+      black: "#000000",
     },
     backgroundImage: {
       hero: "url('./images/bg1.png')",
