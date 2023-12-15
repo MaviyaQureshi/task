@@ -14,7 +14,7 @@ const Content = () => {
                         </button>
                     </div>
                     <button className='w-64 md:w-80 h-10  bg-button rounded-full mt-8'>
-                        <span style={{ "color": "white" }}>Add memorial</span>
+                        <a href="https://lyfeindex.com/Form/form.html" className="text-white">Add memorial</a>
                     </button>
                     <div className='w-64 h-64 sm:w-5/6 sm:h-2/5 md:h-2/5 md:w-5/6 pl-8 sm:pl-10 my-12 sm:my-8 flex flex-row justify-center'>
                         <div>
