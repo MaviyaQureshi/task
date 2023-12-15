@@ -63,7 +63,7 @@ const Content = () => {
                             </button>
                         </div>
                     </div>
-                    <p className="text-5xl font-bold -mt-8 text-transparent" style={{ "fontFamily": "Allison" }}>Forever in our memories....</p>
+                    <p className="text-xl sm:text-3xl md:text-5xl font-bold -mt-8" style={{ "fontFamily": "Allison" }}>Forever in our memories....</p>
                 </div>
             </div>
         </>
